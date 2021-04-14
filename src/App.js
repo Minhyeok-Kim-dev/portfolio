@@ -1,10 +1,6 @@
 import React from 'react';
-import $ from "jquery";
-import "react-bootstrap";
-import "react-collapse";
-import "popper";
-import "jquery-easing";
 import './App.css';
+declare var $ : any;
 
 class App extends React.Component {
   componentDidMount() {
@@ -37,12 +33,12 @@ class App extends React.Component {
       $(".js-scroll-trigger").click(function () {
           $(".navbar-collapse").collapse("hide");
       });
-      /*
+      
       // Activate scrollspy to add active class to navbar items on scroll
       $("body").scrollspy({
           target: "#sideNav",
       });
-      */
+     
   }
 
   render() {
