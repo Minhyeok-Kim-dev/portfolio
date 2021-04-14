@@ -1,7 +1,7 @@
 import React from 'react';
 import './App.css';
 declare var $ : any;
-
+ 
 class App extends React.Component {
   componentDidMount() {
     "use strict"; // Start of use strict
