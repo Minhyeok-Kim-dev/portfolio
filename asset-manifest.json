@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.850f3d14.chunk.css",
-    "main.js": "/portfolio/static/js/main.e022d52a.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.e022d52a.chunk.js.map",
+    "main.css": "/portfolio/static/css/main.e59ec16f.chunk.css",
+    "main.js": "/portfolio/static/js/main.0cf78217.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.0cf78217.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.c729f632.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.c729f632.js.map",
     "static/js/2.81520930.chunk.js": "/portfolio/static/js/2.81520930.chunk.js",
@@ -10,15 +10,35 @@
     "static/js/3.38c94f55.chunk.js": "/portfolio/static/js/3.38c94f55.chunk.js",
     "static/js/3.38c94f55.chunk.js.map": "/portfolio/static/js/3.38c94f55.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "static/css/main.850f3d14.chunk.css.map": "/portfolio/static/css/main.850f3d14.chunk.css.map",
+    "static/css/main.e59ec16f.chunk.css.map": "/portfolio/static/css/main.e59ec16f.chunk.css.map",
     "static/js/2.81520930.chunk.js.LICENSE.txt": "/portfolio/static/js/2.81520930.chunk.js.LICENSE.txt",
     "static/media/about.dd1c830d.jpg": "/portfolio/static/media/about.dd1c830d.jpg",
-    "static/media/profile.58948746.jpg": "/portfolio/static/media/profile.58948746.jpg"
+    "static/media/aspnet.43845dfe.ico": "/portfolio/static/media/aspnet.43845dfe.ico",
+    "static/media/centos.90b87ca1.ico": "/portfolio/static/media/centos.90b87ca1.ico",
+    "static/media/cplusplus.32dc655f.ico": "/portfolio/static/media/cplusplus.32dc655f.ico",
+    "static/media/css.122354fc.ico": "/portfolio/static/media/css.122354fc.ico",
+    "static/media/git.ce2cc12a.ico": "/portfolio/static/media/git.ce2cc12a.ico",
+    "static/media/github.608cb30f.ico": "/portfolio/static/media/github.608cb30f.ico",
+    "static/media/gradle.b2a8dafc.ico": "/portfolio/static/media/gradle.b2a8dafc.ico",
+    "static/media/html5.4aca4036.ico": "/portfolio/static/media/html5.4aca4036.ico",
+    "static/media/iis.532fbadb.ico": "/portfolio/static/media/iis.532fbadb.ico",
+    "static/media/java.3064db02.ico": "/portfolio/static/media/java.3064db02.ico",
+    "static/media/jenkins.894a5e7c.ico": "/portfolio/static/media/jenkins.894a5e7c.ico",
+    "static/media/js.3163f7ad.ico": "/portfolio/static/media/js.3163f7ad.ico",
+    "static/media/mariadb.88220d7a.ico": "/portfolio/static/media/mariadb.88220d7a.ico",
+    "static/media/maven.04b1b8c3.ico": "/portfolio/static/media/maven.04b1b8c3.ico",
+    "static/media/mfc.58d1584a.ico": "/portfolio/static/media/mfc.58d1584a.ico",
+    "static/media/mssql.c685acb6.ico": "/portfolio/static/media/mssql.c685acb6.ico",
+    "static/media/profile.58948746.jpg": "/portfolio/static/media/profile.58948746.jpg",
+    "static/media/spring.cc115410.ico": "/portfolio/static/media/spring.cc115410.ico",
+    "static/media/springboot.60af7d3d.ico": "/portfolio/static/media/springboot.60af7d3d.ico",
+    "static/media/sqlite.c1fb4dbc.ico": "/portfolio/static/media/sqlite.c1fb4dbc.ico",
+    "static/media/tomcat.04bd0ab9.ico": "/portfolio/static/media/tomcat.04bd0ab9.ico"
   },
   "entrypoints": [
     "static/js/runtime-main.c729f632.js",
     "static/js/2.81520930.chunk.js",
-    "static/css/main.850f3d14.chunk.css",
-    "static/js/main.e022d52a.chunk.js"
+    "static/css/main.e59ec16f.chunk.css",
+    "static/js/main.0cf78217.chunk.js"
   ]
 }
